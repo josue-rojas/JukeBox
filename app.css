@@ -29,14 +29,14 @@
 .box{
   animation:colorChange 15s infinite;
   -webkit-animation:colorChange 15s infinite;
-  background-color:#8fffc4;
+  background-color:lightgray;
   margin: 4% 10% 20px 10%;
   border-style: solid;
   padding-left:1%;
   padding-bottom: 1%;
   border-radius:8px;
   padding: 0;
-  border-color: #609d7d;
+  border-color:black;
 }
 
 .first{
@@ -57,7 +57,7 @@ body{
 .queueBox{
   border-style: solid;
   margin: 10px 10% 10px 10%;
-  border-color: #609d7d;
+  border-color: black;
   background-color: white;
   border-radius:20px;
 }
