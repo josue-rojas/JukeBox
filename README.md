@@ -6,5 +6,6 @@ TTP Jukebox example using Spotify API to get song previews and also has the abil
   - add intructions on how to use it
   
   
-  # Link to app online
-  https://josue-jukebox.herokuapp.com
+ 
+# Link to app online
+https://josue-jukebox.herokuapp.com
